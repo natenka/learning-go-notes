@@ -1,8 +1,8 @@
 # learning-go-notes
 
-## ToDo
+## Learning Go notes
 
-* [Go Language Basics](https://www.golangbasics.com/)
+* [golangbasics.com notes](https://github.com/natenka/learning-go-notes/blob/main/notes/golangbasics.md)
 
 ## Links
 
