@@ -16,3 +16,4 @@ Network:
 * [scrapligo](https://github.com/scrapli/scrapligo)
 * [Network automation options in Go with scrapligo](https://netdevops.me/2021/network-automation-options-in-go-with-scrapligo/)
 * [gotextfsm](https://github.com/sirikothe/gotextfsm)
+* [Scrapligo & TextFSM](https://github.com/IPvZero/Golang-Devnet-Interfaces)
